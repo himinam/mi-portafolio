@@ -1,10 +1,10 @@
 console.log("Portafolio Premium 🚀");
 
 const textos = [
-    "Experiencias Web 🚀",
-    "Interfaces Modernas ✨",
-    "Aplicaciones Profesionales 💻",
-    "Diseños Premium 🔥"
+    "María Fernanda Porres 👋",
+    "Desarrolladora Frontend 💻",
+    "Estudiante de Desarrollo de Software 🎓",
+    "Creando Experiencias Web 🚀"
 ];
 
 let textoActual = 0;
